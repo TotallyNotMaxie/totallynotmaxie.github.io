@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>This is a Cydia repo</p>
+</body>
+</html>
+ 
+Origin: Maximum Repo
+Label: Maximum Repo 
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Maximum Repo 
+ 
+Package: Dummy
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Maximus <maximuscasillas24@aol.com>
+Depends: <bundleids>
+Filename: debs//<deb>
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: <section on your repo>
+Description: <This is a Dummy package>
+Author: Maximus <maximuscasillas24@aol.com>
+Name: Dummy
